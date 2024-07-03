@@ -1,4 +1,4 @@
-Collection of personal experiments with assembly programming for various architectures.
+Collection of personal experiments with assembly programming for various architectures, created circa 2020.
 
 `git clone --recursive git@github.com:kubaau/asm.git`
 
